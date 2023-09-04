@@ -175,7 +175,7 @@ export default defineUserConfig({
       ga: "G-EE8M2S3MPB",
       ba: "10b7bc420625758a319d6b23aed4700f",
       rss: {
-        siteURL: "https://v2.vuepress-theme-gungnir.vercel.app",
+        siteURL: "https://khuynhtroc.github.io/newblog2",
         copyright: "Renovamen 2018-2022"
       },
       pwa: true,
