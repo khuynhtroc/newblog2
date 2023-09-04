@@ -64,7 +64,7 @@ export default defineUserConfig({
 
   // configure default theme
   theme: gungnirTheme({
-    repo: "Renovamen/vuepress-theme-gungnir",
+    repo: "khuynhtroc/newblog2",
     docsDir: "docs",
 
     hitokoto: "https://v1.hitokoto.cn?c=i", // enable hitokoto (一言) or not?
