@@ -11,4 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.67",
-    "vuepress-theme-gungnir": "^2.0
+    "vuepress-theme-gungnir": "^2.0.0-alpha.26"
+  }
+}
